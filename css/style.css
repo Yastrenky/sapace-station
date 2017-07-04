@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+#background_space{
+  display: none;
+}
+
+
+#earth{
+  display: none;
+  margin-top: 19%;
+  width: 32%;
+}
+
+#station{
+  display: none;
+  width: 10%;
+}
